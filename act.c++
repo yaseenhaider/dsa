@@ -1,0 +1,5 @@
+#include<iosstream>
+
+void main{
+
+}
